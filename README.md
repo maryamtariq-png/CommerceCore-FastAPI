@@ -60,3 +60,10 @@ It serves as a **solid foundation for building scalable web applications**.
 - **Validation:** Pydantic v2  
 
 ---
+
+## How to Run
+1. Clone the repo.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Create a `.env` file 
+4. Run the server: `uvicorn main:app --reload`
+
