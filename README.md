@@ -71,10 +71,10 @@ It serves as a **solid foundation for building scalable web applications**.
 
 3. Create a virtual environment:
 - python -m venv venv
-- # Activate the environment:
-- # Windows:
+- **Activate the environment**:
+- **Windows**:
 - venv\Scripts\activate
-- # macOS / Linux:
+- **macOS / Linux**:
 - source venv/bin/activate
 
 4. Run the server: `uvicorn main:app --reload`
